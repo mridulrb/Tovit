@@ -179,10 +179,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* Mohammad Fawaz Siddiqi - @fawazsiddiqi
-* Sidra Ahmed - @caffeinated-hooman
-* Faiz Hassan - @FaizHasan123
-* Mridul Bhandari - @mridulrb
+* Mohammad Fawaz Siddiqi - https://github.com/fawazsiddiqi
+* Sidra Ahmed - https://github.com/caffeinated-hooman
+* Faiz Hassan - https://github.com/FaizHasan123
+* Mridul Bhandari - https://github.com/mridulrb
 * Gizem Selen Tumkaya 
 
 ## Future Improvements
