@@ -183,7 +183,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 * Sidra Ahmed - https://github.com/caffeinated-hooman
 * Faiz Hassan - https://github.com/FaizHasan123
 * Mridul Bhandari - https://github.com/mridulrb
-* Gizem Selen Tumkaya 
+* Gizem Selen Tumkaya - https://github.com/selentumkaya
 
 ## Future Improvements
 - Link to test centers for slot booking and automating the delivery of test results.
