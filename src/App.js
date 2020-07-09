@@ -27,9 +27,9 @@ import {
 
 const demoWatson = () => {
   window.loadWatsonAssistantChat({
-    integrationID: "5bd1bb25-2d16-40f8-abb3-fa92f8829d63", // The ID of this integration.
+    integrationID: "", // The ID of this integration.
     region: "eu-gb", // The region your integration is hosted in.
-    serviceInstanceID: "a513e694-d417-4035-a972-26d6d679c99c", // The ID of your service instance.
+    serviceInstanceID: "", // The ID of your service instance.
     // onLoad: function(instance) { instance.render(); }
     carbonTheme: 'g90'
   }).then(function(instance){
