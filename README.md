@@ -6,6 +6,7 @@
 
 1. [Short description](#About-the-project)
 1. [Demo video](#demo-video)
+1. [Blog] (#blog)
 1. [The architecture](#the-architecture)
 1. [Long description](#Project-details)
 1. [Project roadmap](#Tovit-roadmap)
