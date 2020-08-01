@@ -35,6 +35,10 @@ Our idea is to create a one-stop-app with all the assets you would require to st
 
 [![Watch the video](media/TOVITThumb.png)](https://www.youtube.com/watch?v=YfvLV2NF-Zc)
 
+## Blog
+
+https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1
+
 ## The architecture
 
 ![TOVIT_ARCHITECTURE](media/TOVITArch.png)
