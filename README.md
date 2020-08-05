@@ -38,7 +38,7 @@ Our idea is to create a one-stop-app with all the assets you would require to st
 
 ## Blogs
 
-https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1
+https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1 <br />
 https://medium.com/callforcode/tovit-ae4554bfe92f
 
 ## The architecture
