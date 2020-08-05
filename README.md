@@ -6,7 +6,7 @@
 
 1. [Short description](#About-the-project)
 1. [Demo video](#demo-video)
-1. [Blog](#blog)
+1. [Blogs](#blogs)
 1. [The architecture](#the-architecture)
 1. [Long description](#Project-details)
 1. [Project roadmap](#Tovit-roadmap)
@@ -36,9 +36,10 @@ Our idea is to create a one-stop-app with all the assets you would require to st
 
 [![Watch the video](media/TOVITThumb.png)](https://www.youtube.com/watch?v=YfvLV2NF-Zc)
 
-## Blog
+## Blogs
 
 https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1
+https://medium.com/callforcode/tovit-ae4554bfe92f
 
 ## The architecture
 
