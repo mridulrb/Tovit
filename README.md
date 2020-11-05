@@ -23,7 +23,7 @@
 
 ### What's the problem?
 
-Recently we went through a mjaor change in life, we had to change how we live, how we work, and where we go. COVID-19 has been classified as a pandemic by the World Health Organization and with the cases raising daily, we can still say that we are not safe. With movement restrictions to lockdowns in many countries, COVID-19 has changed our life and our responsibility as humans is to stay safe and keep our loved ones safe.
+Recently we went through a major change in life, we had to change how we live, how we work, and where we go. COVID-19 has been classified as a pandemic by the World Health Organization and with the cases raising daily, we can still say that we are not safe. With movement restrictions to lockdowns in many countries, COVID-19 has changed our life and our responsibility as humans is to stay safe and keep our loved ones safe.
 
 ### How can technology help?
 
@@ -199,6 +199,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 - Community cooperation where people can list out the supplies they have and are willing to contribute and connecting more utility services such as emergency services and ambulatory services.
 - Sending checkpoint information directly to damins rather than an email.
 - Sending checkpoint check-ins to a hospital directly from the admin portal.
+- We will work on adding more to the chat bot such as voice integration.
 
 ## License
 
