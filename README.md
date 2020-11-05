@@ -15,6 +15,7 @@
 1. [Built with](#built-with)
 1. [Contributing](#contributing)
 1. [Authors](#authors)
+1. [Future Improvements](#future-improvements)
 1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
@@ -22,7 +23,7 @@
 
 ### What's the problem?
 
-Recently we went through a major change in life, we had to change how we live, how we work, and where we go. COVID-19 has been classified as a pandemic by the World Health Organization and with the cases raising daily, we can still say that we are not safe. With movement restrictions to lockdowns in many countries, COVID-19 has changed our life and our responsibility as humans is to stay safe and keep our loved ones safe.
+Recently we went through a mjaor change in life, we had to change how we live, how we work, and where we go. COVID-19 has been classified as a pandemic by the World Health Organization and with the cases raising daily, we can still say that we are not safe. With movement restrictions to lockdowns in many countries, COVID-19 has changed our life and our responsibility as humans is to stay safe and keep our loved ones safe.
 
 ### How can technology help?
 
